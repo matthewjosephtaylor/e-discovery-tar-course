@@ -9,6 +9,6 @@ For those stumbling onto this: I am a humble software developer working on a sof
 
 I hope you find these notes helpful, but understand that these are my 'raw study notes' and so will reflect my own perspective and understanding at the moment and time I'm going through this course. Feel free to glean from them what insights you can, but understand I am a student not a master (_especially_ when it comes to the legal side) :)
 
-| Course Link | Notes |
-| --- | --- |
-| https://e-discoveryteam.com/tar-course/tar-course-1st-class/ | (first_class.md) |
+| Notes | Direct Link | Archive Link
+| --- | --- | --- |
+| [Class #1](first_class.md) | https://e-discoveryteam.com/tar-course/tar-course-1st-class/ | https://web.archive.org/web/20190705165128/https://e-discoveryteam.com/tar-course/tar-course-1st-class/ |
