@@ -11,4 +11,4 @@ I hope you find these notes helpful, but understand that these are my 'raw study
 
 | Notes | Direct Link | Archive Link
 | --- | --- | --- |
-| [Class #1](class_.md) | https://e-discoveryteam.com/tar-course/tar-course-1st-class/ | https://web.archive.org/web/20190705165128/https://e-discoveryteam.com/tar-course/tar-course-1st-class/ |
+| [Class #1](class_1.md) | https://e-discoveryteam.com/tar-course/tar-course-1st-class/ | https://web.archive.org/web/20190705165128/https://e-discoveryteam.com/tar-course/tar-course-1st-class/ |
